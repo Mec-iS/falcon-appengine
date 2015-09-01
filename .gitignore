@@ -63,7 +63,5 @@ target/
 appengine-generated/
 
 
-six.py
-lib/
 .idea/
 app.old# Created by .ignore support plugin (hsz.mobi)
